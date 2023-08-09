@@ -1,0 +1,64 @@
+{
+  "walletData": [
+    {
+      "name": "John Doe",
+      "type": "University",
+      "imgSrc": "https://randomuser.me/api/portraits/men/1.jpg",
+      "alt": "Georgia University"
+    },
+    {
+      "name": "Jane Smith",
+      "type": "Police",
+      "imgSrc": "https://randomuser.me/api/portraits/women/2.jpg",
+      "alt": "Harvard University"
+    },
+    {
+      "name": "Michael Johnson",
+      "type": "Fireman",
+      "imgSrc": "https://randomuser.me/api/portraits/men/3.jpg",
+      "alt": "MIT University"
+    },
+    {
+      "name": "Emily Brown",
+      "type": "Teacher",
+      "imgSrc": "https://randomuser.me/api/portraits/women/4.jpg",
+      "alt": "Stanford University"
+    },
+    {
+      "name": "William Lee",
+      "type": "Professor",
+      "imgSrc": "https://randomuser.me/api/portraits/men/5.jpg",
+      "alt": "Yale University"
+    },
+    {
+      "name": "Olivia Miller",
+      "type": "University",
+      "imgSrc": "https://randomuser.me/api/portraits/women/6.jpg",
+      "alt": "Cambridge University"
+    },
+    {
+      "name": "James Johnson",
+      "type": "Army",
+      "imgSrc": "https://randomuser.me/api/portraits/men/7.jpg",
+      "alt": "Princeton University"
+    },
+    {
+      "name": "Emma Taylor",
+      "type": "Private",
+      "imgSrc": "https://randomuser.me/api/portraits/women/8.jpg",
+      "alt": "Caltech University"
+    },
+    {
+      "name": "Daniel Davis",
+      "type": "Sergeant",
+      "imgSrc": "https://randomuser.me/api/portraits/men/9.jpg",
+      "alt": "Oxford University"
+    },
+    {
+      "name": "Sophia Martinez",
+      "type": "Chief",
+      "imgSrc": "https://randomuser.me/api/portraits/women/10.jpg",
+      "alt": "Columbia University"
+    }
+  ]
+}

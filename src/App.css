@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Noto+Serif:ital,wght@1,300&family=Poppins:ital,wght@0,300;1,600&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* {
+    "name": "ETH Zurich",
+    "type": "university",
+    "imgSrc": "https://randomuser.me/api/portraits/men/11.jpg",
+    "alt": "ETH Zurich University"
+  },
+  {
+    "name": "Chicago",
+    "type": "university",
+    "imgSrc": "https://randomuser.me/api/portraits/women/12.jpg",
+    "alt": "Chicago University"
+  },
+  {
+    "name": "Imperial College London",
+    "type": "university",
+    "imgSrc": "https://randomuser.me/api/portraits/men/13.jpg",
+    "alt": "Imperial College London University"
+  },
+  {
+    "name": "National University of Singapore",
+    "type": "university",
+    "imgSrc": "https://randomuser.me/api/portraits/women/14.jpg",
+    "alt": "National University of Singapore"
+  },
+  {
+    "name": "Tokyo University",
+    "type": "university",
+    "imgSrc": "https://randomuser.me/api/portraits/men/15.jpg",
+    "alt": "Tokyo University"
+  }   */
+/* _______________________________________ */
+/* const _WalletCard = (
+    walletData: IWalletItem[],
+    buttonText: string | undefined
+  ) => {
+    return walletData.map(({ name, type, imgSrc, alt }, index) => (
+      <S.StyledCol lg={2} md={3} sm={4} xs={12} key={index}>
+        <S.StyledImage src={imgSrc} alt={alt} />
+        <div>{name}</div>
+        <p className='text-muted'>{type}</p>
+        <S.StyledButton>{buttonText}</S.StyledButton>
+      </S.StyledCol>
+    ));
+  }; */
