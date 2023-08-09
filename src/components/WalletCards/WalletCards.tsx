@@ -17,7 +17,7 @@ export const WalletCards = ({ walletData, buttonText }: IWalletData) => {
     <S.WalletCardContainer>
       <S.StyledRow xl={5} lg={4} md={3} sm={2} xs={1}>
         {walletData.map(({ name, type, imgSrc, alt }, index) => (
-          <S.StyledCol   key={index} className="pt-5">
+          <S.StyledCol key={index} className='pt-5'>
             <S.StyledImage src={imgSrc} alt={alt} />
             <S.StyleHeadText>{name}</S.StyleHeadText>
             <p className='text-muted'>{type}</p>
