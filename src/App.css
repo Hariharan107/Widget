@@ -50,3 +50,127 @@
       </S.StyledCol>
     ));
   }; */
+/* {
+    "walletData": {
+      "University": [
+        {
+          "id": "1",
+          "name": "John Doe",
+          "imgSrc": "https://randomuser.me/api/portraits/men/1.jpg",
+          "alt": "Georgia University"
+        },
+        {
+          "id": "2",
+          "name": "Jane Smith",
+          "imgSrc": "https://randomuser.me/api/portraits/women/2.jpg",
+          "alt": "Harvard University"
+        },
+        {
+          "id": "3",
+          "name": "Michael Johnson",
+          "imgSrc": "https://randomuser.me/api/portraits/men/3.jpg",
+          "alt": "MIT University"
+        },
+        {
+          "id": "4",
+          "name": "Emily Brown",
+          "imgSrc": "https://randomuser.me/api/portraits/women/4.jpg",
+          "alt": "Stanford University"
+        },
+        {
+          "id": "5",
+          "name": "William Lee",
+          "imgSrc": "https://randomuser.me/api/portraits/men/5.jpg",
+          "alt": "Yale University"
+        },
+        {
+          "id": "6",
+          "name": "Olivia Miller",
+          "imgSrc": "https://randomuser.me/api/portraits/women/6.jpg",
+          "alt": "Cambridge University"
+        }
+      ],
+      "Police": [
+        {
+          "id": "7",
+          "name": "Jane Smith",
+          "imgSrc": "https://randomuser.me/api/portraits/women/12.jpg",
+          "alt": "Harvard University"
+        },
+        {
+          "id": "8",
+          "name": "Kevin Hards",
+          "imgSrc": "https://randomuser.me/api/portraits/men/29.jpg",
+          "alt": "Police"
+        },
+        {
+          "id": "9",
+          "name": "Kevin Brown",
+          "imgSrc": "https://randomuser.me/api/portraits/women/16.jpg"
+        },
+        {
+          "id": "10",
+          "name": "JOna Smith",
+          "imgSrc": "https://randomuser.me/api/portraits/women/72.jpg",
+          "alt": "Harvard University"
+        },
+        {
+          "id": "11",
+          "name": "Jeyaram Hards",
+          "imgSrc": "https://randomuser.me/api/portraits/men/79.jpg",
+          "alt": "Police"
+        },
+        {
+          "id": "12",
+          "name": "Leo Hernandez",
+          "imgSrc": "https://randomuser.me/api/portraits/women/66.jpg"
+        },
+        {
+          "id": "13",
+          "name": "Colin Smith",
+          "imgSrc": "https://randomuser.me/api/portraits/women/52.jpg",
+          "alt": "Harvard University"
+        },
+        {
+          "id": "14",
+          "name": "James Love",
+          "imgSrc": "https://randomuser.me/api/portraits/men/9.jpg",
+          "alt": "Police"
+        },
+        {
+          "id": "15",
+          "name": "Emily King",
+          "imgSrc": "https://randomuser.me/api/portraits/women/26.jpg"
+        },
+        {
+          "id": "16",
+          "name": "Jeyaram Hards",
+          "imgSrc": "https://randomuser.me/api/portraits/men/79.jpg",
+          "alt": "Police"
+        },
+        {
+          "id": "17",
+          "name": "Leo Hernandez",
+          "imgSrc": "https://randomuser.me/api/portraits/women/66.jpg"
+        },
+        {
+          "id": "18",
+          "name": "Colin Smith",
+          "imgSrc": "https://randomuser.me/api/portraits/women/52.jpg",
+          "alt": "Harvard University"
+        },
+        {
+          "id": "19",
+          "name": "James Love",
+          "imgSrc": "https://randomuser.me/api/portraits/men/9.jpg",
+          "alt": "Police"
+        },
+        {
+          "id": "20",
+          "name": "Emily King",
+          "imgSrc": "https://randomuser.me/api/portraits/women/26.jpg"
+        }
+      ]
+    }
+  }
+   */
